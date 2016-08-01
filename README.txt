@@ -1,3 +1,3 @@
 This is a README
 
-And this is not fireworks
+And this is not FireWorks
